@@ -1,0 +1,70 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    background-color: rgb(41, 41, 41);
+}
+ 
+
+  h1{
+    margin: 0;
+    font-size: 90px;
+  }
+  
+  .top-cloud{
+    width: 300px;
+    position: absolute;
+    bottom: 45px;
+    left: 900px;
+  
+  }
+  
+  .bottom-cloud{
+    width: 300px;
+    position: absolute;
+    bottom: 400px;
+    left: 300px;
+  
+  
+  }
+  
+  
+  
+  .Text1{
+    position: absolute;
+    bottom: 450px;
+    right: 580px;
+    color: rgb(252, 9, 9);
+
+  }
+  
+  
+  .Text2{
+    position: absolute;
+    top: 290px;
+    left: 730px;
+    color:White;
+    font-size: 30px;
+    font-weight: normal;
+    font-family: sans-serif;
+    line-height: 2;
+  }
+
+  .Text3{
+    position:absolute;
+    top: 800px;
+    color: white;
+    left: 230px;
+  }
+  .Text4{
+    position: absolute;
+    top: 870px;
+    color: white;
+    left: 170px;
+    font-size: 30px;
+    font-family: serif;
+  }
+
+
+  
